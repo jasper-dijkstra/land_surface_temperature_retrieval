@@ -4,7 +4,7 @@ This repository contains the source code used for master thesis project: *Land s
 # Installation
 1. Clone the project and change directory
 ```
-git@github.com:jasper-dijkstra/land_surface_temperature_retrieval.git
+git clone git@github.com:jasper-dijkstra/land_surface_temperature_retrieval.git
 cd land_surface_temperature_retrieval
 ```
 
